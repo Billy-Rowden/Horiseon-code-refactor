@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header Portion */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,6 +22,7 @@ header h1 {
     font-size: 48px;
 }
 
+/* It is intentional middle "seo" part of Horiseon header is slightly different colour */
 .seo {
     color: #d9dcd6;   
 }
@@ -44,9 +47,7 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
+/* Image for the Background */
 
 .background-image {
     height: 800px;
@@ -55,6 +56,14 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+/* Main Portion */
+
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 .float-left {
@@ -67,11 +76,29 @@ p {
     margin-left: 25px;
 }
 
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
+p {
+    font-size: 16px;
 }
+
+.marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.marketing img {
+    max-height: 200px;
+}
+
+.marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Aside Portion*/
 
 aside {
     margin-right: 20px;
@@ -101,23 +128,7 @@ aside {
     max-width: 150px;
 }
 
-.marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.marketing img {
-    max-height: 200px;
-}
-
-.marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/* Footer Portion */
 
 footer {
     padding: 30px;
