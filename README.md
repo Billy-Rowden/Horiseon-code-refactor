@@ -40,7 +40,7 @@ A website for a marketing agency.
 
 The following image displays the web application's appearance after following the stated assessment criteria:
 
-![Alt text](assets/images/01-html-css-git-challenge-demo.png)
+![Alt text](assets/images/Horiseon-Screenshot.png)
 
 By selecting any of the three links located in the top right of the webpage, the user will be directed to the matching sections located elsewhere on the webpage.
 
