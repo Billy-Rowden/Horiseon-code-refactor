@@ -50,6 +50,8 @@ By selecting any of the three links located in the top right of the webpage, the
 
 The original starter code - Courtesy of EdX Bootcamps
 
+Finishing touches in collaboration with Davou Jobbi, Andrea Fontana and Nicole Santamaria Granizo.
+
 ## Badges
 
 ![badmath](https://img.shields.io/badge/HTML-61.9-blue)
