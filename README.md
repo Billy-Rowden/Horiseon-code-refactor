@@ -1,4 +1,4 @@
-# horiseon-code-refactor
+# Horiseon-code-refactor
 
 # Fixing the Horiseon webpage code and streamlining its elements and style sheet. 
 
